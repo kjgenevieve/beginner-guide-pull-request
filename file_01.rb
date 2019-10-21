@@ -1,4 +1,3 @@
-image = "NOPE"
-
+image = "NO DEER ALLOWED"
 
 puts image
