@@ -1,4 +1,3 @@
 image = "NOPE"
 
-
 puts image
